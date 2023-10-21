@@ -4,7 +4,10 @@
   "description": "Template for Create React App to develop chrome extensions.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manhquang144/cra-template-chrome-extension-react.git"
+    "url": "git+https://github.com/manhquang144/chrome-extension-react.git"
+  },
+  "publishConfig": {
+    "@manhquang144:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react",
@@ -19,9 +22,9 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/manhquang144/cra-template-chrome-extension-react/issues"
+    "url": "https://github.com/manhquang144/chrome-extension-react/issues"
   },
-  "homepage": "https://github.com/manhquang144/cra-template-chrome-extension-react#readme",
+  "homepage": "https://github.com/manhquang144/chrome-extension-react#readme",
   "files": [
     "template",
     "template.json"
