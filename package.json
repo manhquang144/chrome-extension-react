@@ -7,7 +7,7 @@
     "url": "git+https://github.com/manhquang144/chrome-extension-react.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/manhquang144"
+    "@manhquang144:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react",
