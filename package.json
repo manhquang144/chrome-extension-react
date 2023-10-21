@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/manhquang144/cra-template-chrome-extension-react.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/manhquang144"
+  },
   "keywords": [
     "react",
     "chrome-extension",
