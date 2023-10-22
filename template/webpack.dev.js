@@ -6,7 +6,7 @@ module.exports = {
     mode: "development",
     devServer: {
         static: {
-            directory: path.join(__dirname, "extension"),
+            directory: path.join(__dirname, "public"),
         },
         port: 8080,
     },

@@ -39,7 +39,7 @@ module.exports = {
     },
     plugins: [
         new CopyPlugin({
-            patterns: [{ from: "./extension", to: "" }],
+            patterns: [{ from: "./public", to: "" }],
         }),
     ],
 };
