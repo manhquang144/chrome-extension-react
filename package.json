@@ -1,6 +1,6 @@
 {
   "name": "cra-template-chrome-extension-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Template for Create React App to develop chrome extensions.",
   "repository": {
     "type": "git",
