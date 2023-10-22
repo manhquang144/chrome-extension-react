@@ -1,14 +1,12 @@
 {
   "name": "cra-template-chrome-extension-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Template for Create React App to develop chrome extensions.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manhquang144/chrome-extension-react.git"
   },
-  "publishConfig": {
-    "@manhquang144:registry": "https://npm.pkg.github.com"
-  },
+  "main": "template.json",
   "keywords": [
     "react",
     "chrome-extension",
